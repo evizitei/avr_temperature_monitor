@@ -1,0 +1,34 @@
+8
+
+dir
+616
+svn+ssh://cs.obdev.at/home/cs/SVN/Hardware/AVRMacPack/trunk/templates/TemplateProject
+
+
+
+
+2008-01-21T20:31:30.719100Z
+475
+cs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+134f2b45-0aee-0310-8fa1-89a6edc865ab
+
+firmware
+dir
+
+TemplateProject.xcodeproj
+dir
+

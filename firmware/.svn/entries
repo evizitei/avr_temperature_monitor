@@ -1,0 +1,54 @@
+8
+
+dir
+616
+svn+ssh://cs.obdev.at/home/cs/SVN/Hardware/AVRMacPack/trunk/templates/TemplateProject/firmware
+
+
+
+
+2007-11-25T13:52:58.246378Z
+408
+cs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+134f2b45-0aee-0310-8fa1-89a6edc865ab
+
+main.c
+file
+
+
+
+
+2007-11-25T14:00:35.000000Z
+551f52267877f91eda5cf63dc4978d48
+2007-11-25T13:52:58.246378Z
+408
+cs
+has-props
+
+Makefile
+file
+
+
+
+
+2007-11-25T14:00:35.000000Z
+d8a43645abaa3e6ef0863848bcc54714
+2007-11-25T13:52:58.246378Z
+408
+cs
+has-props
+
